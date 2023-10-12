@@ -1,0 +1,4 @@
+Eliver,grupo 1,100.0
+Eliver,Grupo 4,80.0
+Anthony,Grupo 3,100.0
+Eliver,Grupo C,80.0
